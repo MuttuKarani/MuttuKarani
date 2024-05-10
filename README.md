@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muttu Karani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400px"src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
+<img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muttukarani&label=Profile%20views&color=0e75b6&style=flat" alt="muttukarani" /> </p>
 
