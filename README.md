@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muttukarani&label=Profile%20views&color=0e75b6&style=flat" alt="muttukarani" /> </p>
 
 - 🔭 I have worked on **Flipbook**
-- -I am currently developing a **B2B platfrom**
+- I am currently developing a **B2B platfrom**
 
 - 🌱 I’m currently learning **Angular.js**
 
