@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muttukarani&label=Profile%20views&color=0e75b6&style=flat" alt="muttukarani" /> </p>
 
-- 🔭 I have worked on **Flipbook** and **B2B platfrom**
+- 🔭 I have worked on **Flipbook** , **B2B platfrom** and **Yeats Clinic**
 
-- 🌱 I’m currently working on **Yeats Clinic**
+- 🌱 I’m currently working on **Careocity**
 
 - 💬 Ask me about **react.js, css, html**
 
