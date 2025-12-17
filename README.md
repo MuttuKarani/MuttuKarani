@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muttu Karani</h1>
-<h3 align="center">Frontend Developer | React.js | TypeScript | Fintech Enthusiast</h3>
+<h3 align="center">Frontend Developer | React.js | TypeScript </h3>
 
 <img align="right" alt="Coding" width="400px"
   src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" />
