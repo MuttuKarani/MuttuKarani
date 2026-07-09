@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Frontend Developer with **2+ years of experience** building scalable and performant web applications  
+- 👨‍💻 Frontend Developer with **2.5+ years of experience** building scalable and performant web applications  
 - 🔭 Worked on **Flipbook**, **B2B Platform**, and **Yeats Clinic** projects  
-- 🌱 Currently working on **Careocity**  
+- 🌱 Currently working on **Brdg.in**  
 - 💳 Experience with **fintech features** like payment integration, authentication, and dashboards  
 - 💬 Ask me about **React.js, TypeScript, JavaScript, HTML, CSS**  
 - 📫 Reach me at **muttukarani86@gmail.com**
