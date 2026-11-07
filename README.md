@@ -13,8 +13,8 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Frontend Developer with **2.5+ years of experience** building scalable and performant web applications  
-- 🔭 Worked on **Flipbook**, **B2B Platform**, and **Yeats Clinic** projects  
+- 👨‍💻 Frontend Developer with **2.11+ years of experience** building scalable and performant web applications  
+- 🔭 Worked on **Flipbook**, **Soochi ERP Platform**, and **Sanchikahub – Multi-Tenant E-Commerce SaaS & Admin Platform** projects  
 - 🌱 Currently working on **Brdg.in**  
 - 💳 Experience with **fintech features** like payment integration, authentication, and dashboards  
 - 💬 Ask me about **React.js, TypeScript, JavaScript, HTML, CSS**  
